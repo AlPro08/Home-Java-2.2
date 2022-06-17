@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         int accountBallance = 205; // денег на счету у пользователя
@@ -14,5 +14,5 @@ public class main {
         System.out.println("бонус равен " + bonuce);
         System.out.println("баланс равен " + lastBallance);
 
-            }
+    }
 }
